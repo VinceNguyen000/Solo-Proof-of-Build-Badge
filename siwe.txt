@@ -1,0 +1,10 @@
+blockchain.didlab.org wants you to sign in with your Ethereum account:
+0x9887D4f5549B84b07C93253c5Dd81BB4B2787b62
+
+Sign in to DIDLab API
+
+URI: https://blockchain.didlab.org
+Version: 1
+Chain ID: 252501
+Nonce: F0Y8tXtH9FyPcCDeN
+Issued At: 2025-11-04T23:27:17.102Z
