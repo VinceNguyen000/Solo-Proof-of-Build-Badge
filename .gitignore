@@ -1,16 +1,9 @@
-# Environment and private keys
 .env
-*.key
-
-# Node + Hardhat build files
 node_modules/
 artifacts/
 cache/
 coverage/
 typechain/
 dist/
-
-# Logs and misc
 *.log
-*.tmp
 .DS_Store
